@@ -1,12 +1,9 @@
 
-<!-- =========================================================
-     SAKIL AHMED | GITHUB PROFILE
-     Ice White · Cobalt · Lavender · Mint
-========================================================== -->
+<!-- =============== SAKIL AHMED | HERO =============== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=2563EB" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=2563EB" width="100%" alt=""/>
 
 </div>
 
@@ -14,15 +11,17 @@
 <tr>
 <td width="58%" valign="middle">
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-ENGINEERING-2563EB?style=flat-square&labelColor=EEF2FF" alt="AI and machine learning"/>
+<img src="https://img.shields.io/badge/BUILDING-THINGS%20THAT%20MATTER-EEF2FF?style=flat-square&labelColor=DBEAFE&color=2563EB" alt="Building things that matter"/>
+
+<br/><br/>
 
 # Sakil Ahmed
 
-### Full-Stack Developer · AI/ML · Systems Engineering
+### AI/ML Developer & Full-Stack Engineer
 
-I turn ambitious ideas into intelligent software, polished digital experiences, and fully functional applications.
+I turn ambitious ideas into intelligent software, thoughtful digital experiences, and useful products.
 
-From AI-powered systems to live websites, I work across the stack — designing, building, integrating, and deploying products that solve real problems.
+I enjoy working across the stack — from designing interfaces and building APIs to developing AI-powered systems and bringing complete applications to life.
 
 <br/>
 
@@ -31,7 +30,7 @@ From AI-powered systems to live websites, I work across the stack — designing,
 </a>
 &nbsp;
 <a href="mailto:sakilahmed.user@gmail.com">
-<img src="https://img.shields.io/badge/Let's%20Connect-EEF2FF?style=for-the-badge&logo=minutemailer&logoColor=2563EB" alt="Contact me"/>
+<img src="https://img.shields.io/badge/Contact%20Me-EEF2FF?style=for-the-badge&logo=minutemailer&logoColor=2563EB" alt="Contact me"/>
 </a>
 
 <br/><br/>
@@ -45,59 +44,35 @@ From AI-powered systems to live websites, I work across the stack — designing,
 <a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/Email-EDE9FE?style=flat-square&logo=gmail&logoColor=6D28D9" alt="Email"/></a>
 
 </td>
-<td width="42%" valign="middle">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=4500&pause=2200&color=2563EB&center=true&vCenter=true&width=340&height=90&lines=Ideas+into+Applications;Code+into+Products;Projects+into+Production;AI+with+Real-World+Purpose" alt="Animated developer tagline"/>
+<td width="42%" valign="middle" align="center">
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI-Intelligent%20Systems-EEF2FF?style=flat-square&labelColor=DBEAFE&color=EEF2FF" alt="AI and intelligent systems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4500&pause=2200&color=2563EB&center=true&vCenter=true&width=380&height=140&lines=Think+Beyond+the+Obvious;Design+with+Purpose;Engineer+with+Precision;Build+for+the+Real+World" alt="Animated developer philosophy"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/WEB-Full--Stack%20Applications-F0FDFA?style=flat-square&labelColor=CCFBF1&color=F0FDFA" alt="Full-stack applications"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=DBEAFE" width="75%" alt=""/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/ENGINEERING-Systems%20%26%20Architecture-F5F3FF?style=flat-square&labelColor=DDD6FE&color=F5F3FF" alt="Systems engineering"/>
+<p><strong>IDEAS, ENGINEERED INTO REALITY.</strong></p>
 
-<br/><br/>
+<p><sub>Artificial intelligence · Software · Systems</sub></p>
 
-<table>
-<tr>
-<td align="center">
-
-<strong>REAL-WORLD DEPLOYMENTS</strong>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/SCHOOL%20WEBSITE-LIVE-DCFCE7?style=flat-square&labelColor=DCFCE7&color=15803D" alt="School website"/>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/NGO%20WEBSITE-LIVE-DCFCE7?style=flat-square&labelColor=DCFCE7&color=15803D" alt="NGO website"/>
-
-<br/><br/>
-
-<sub>Fully functional websites · Deployed projects</sub>
-
-</td>
-</tr>
-</table>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=sakilahmed-git&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
-</div>
+<br/><br/>
+
+</td>
+</tr>
+</table>
+
+---
+
+
 
 ---
 
