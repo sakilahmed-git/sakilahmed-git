@@ -53,13 +53,15 @@ Building web applications and AI-powered systems, figuring out how things work u
 
 </div>
 
+
 ### Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakilahmed-git&bg_color=FFFFFF&color=334155&line=2563EB&point=2563EB&area=true&area_color=DBEAFE&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution graph"/>
+<img src="https://ghchart.rshah.org/2563eb/sakilahmed-git" alt="Sakil Ahmed's GitHub contribution graph" width="100%"/>
 
 </div>
+
 
 ---
 
