@@ -4,34 +4,53 @@
      Premium light theme · Cobalt blue · Compact layout
 ======================================================= -->
 
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=2563EB" width="100%" alt=""/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=2563EB" width="100%" alt="" />
 
-# Sakil Ahmed
+  <br/>
 
-**AI / ML · Full-Stack Developer · Systems Engineering**
+  <h1>Sakil Ahmed</h1>
 
-Building web applications and AI-powered systems, figuring out how things work under the hood, and turning ideas into useful software.
+  <p>
+    <strong>AI/ML Engineer · Full-Stack Developer · Systems Engineering</strong>
+  </p>
 
-<br/>
+  <p>
+    I build intelligent applications and practical AI systems — from polished web experiences to the engineering behind them.
+  </p>
 
-<a href="https://github.com/sakilahmed-git?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
-<a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-F1F5F9?style=for-the-badge&logo=gmail&logoColor=334155" alt="Contact"/></a>
+  <br/>
+
+  <a href="https://github.com/sakilahmed-git?tab=repositories">
+    <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sakilahmed.user@gmail.com">
+    <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-F1F5F9?style=for-the-badge&logo=gmail&logoColor=334155" alt="Get in touch"/>
+  </a>
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/sakil-ahmed-in">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://instagram.com/sakilahmed._">Instagram</a>
-&nbsp;·&nbsp;
-<a href="https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A">YouTube</a>
-&nbsp;·&nbsp;
-<a href="mailto:sakilahmed.user@gmail.com">Email</a>
+  <a href="https://linkedin.com/in/sakil-ahmed-in">
+    <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="https://instagram.com/sakilahmed._">
+    <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat&logo=instagram&logoColor=2563EB" alt="Instagram"/>
+  </a>
+  &nbsp;
+  <a href="https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A">
+    <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=flat&logo=youtube&logoColor=2563EB" alt="YouTube"/>
+  </a>
+  &nbsp;
+  <a href="mailto:sakilahmed.user@gmail.com">
+    <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat&logo=gmail&logoColor=2563EB" alt="Email"/>
+  </a>
 
-<br/>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=sakilahmed-git&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=sakilahmed-git&style=flat&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
