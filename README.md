@@ -1,34 +1,23 @@
 
-<!--
-╔══════════════════════════════════════════════════════════╗
-║  SAKIL AHMED · DEVELOPER PROFILE                         ║
-║  LIGHT UI / COBALT BLUE / SYSTEMS ENGINEERING            ║
-║  Built for GitHub README rendering                       ║
-╚══════════════════════════════════════════════════════════╝
--->
+<!-- ======================================================
+     SAKIL AHMED | GITHUB PROFILE
+     Premium light theme · Cobalt blue · Compact layout
+======================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=2563EB" width="100%" alt=""/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=2563EB" width="100%" alt=""/>
+
+# Sakil Ahmed
+
+**AI / ML · Full-Stack Developer · Systems Engineering**
+
+Building web applications and AI-powered systems, figuring out how things work under the hood, and turning ideas into useful software.
 
 <br/>
 
-<table>
-<tr>
-<td width="65%" valign="middle">
-
-<h1>Sakil Ahmed</h1>
-
-<strong>AI / ML &nbsp;·&nbsp; Full-Stack Development &nbsp;·&nbsp; Systems Engineering</strong>
-
-<br/><br/>
-
-I build web applications, experiment with AI, and work on turning ambitious ideas into useful software.
-
-<br/><br/>
-
-<a href="https://github.com/sakilahmed-git?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
-<a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/CONTACT-F1F5F9?style=for-the-badge&logo=gmail&logoColor=334155" alt="Contact"/></a>
+<a href="https://github.com/sakilahmed-git?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-F1F5F9?style=for-the-badge&logo=gmail&logoColor=334155" alt="Contact"/></a>
 
 <br/><br/>
 
@@ -40,154 +29,15 @@ I build web applications, experiment with AI, and work on turning ambitious idea
 &nbsp;·&nbsp;
 <a href="mailto:sakilahmed.user@gmail.com">Email</a>
 
-</td>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/01-AI%20%2F%20ML-DBEAFE?style=for-the-badge&labelColor=2563EB" alt="AI and machine learning"/>
-
 <br/>
 
-<img src="https://img.shields.io/badge/02-FULL--STACK-DBEAFE?style=for-the-badge&labelColor=2563EB" alt="Full-stack development"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/03-SYSTEMS-DBEAFE?style=for-the-badge&labelColor=2563EB" alt="Systems engineering"/>
-
-<br/><br/>
-
-<sub>Learn by building.<br/>Improve by shipping.</sub>
-
-</td>
-</tr>
-</table>
+<img src="https://komarev.com/ghpvc/?username=sakilahmed-git&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
 
 </div>
 
 ---
 
-<div align="center">
-
-<a href="https://github.com/sakilahmed-git?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-Browse%20repositories-2563EB?style=flat-square&logo=github&logoColor=white" alt="Projects"/></a>
-<a href="https://github.com/sakilahmed-git?tab=stars"><img src="https://img.shields.io/badge/INTERESTS-AI%20%26%20Engineering-DBEAFE?style=flat-square&logoColor=1D4ED8" alt="Interests"/></a>
-<a href="https://komarev.com/ghpvc/?username=sakilahmed-git"><img src="https://komarev.com/ghpvc/?username=sakilahmed-git&label=PROFILE%20VIEWS&color=64748B&style=flat-square" alt="Profile views"/></a>
-
-</div>
-
-## 01 / About
-
-I'm a Computer Science student interested in building across the stack—from frontend interfaces and backend systems to AI-powered applications.
-
-I prefer learning by building real projects: figuring out how the pieces fit together, working through the difficult parts, and improving the result through iteration.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### What I work on
-
-- Full-stack web applications
-- AI and machine learning experiments
-- Computer vision and intelligent systems
-- APIs, databases, and authentication
-- Interface design and developer tools
-
-</td>
-<td width="50%" valign="top">
-
-### What I'm learning
-
-- Better software architecture
-- Model development and evaluation
-- Reliable backend design
-- System-level problem solving
-- Building and shipping complete products
-
-</td>
-</tr>
-</table>
-
----
-
-## 02 / Selected Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01 &nbsp; Scintilla / Orbi
-
-An optical communication engineering project exploring event-driven sensing, link acquisition, tracking, and predictive recovery.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-DBEAFE?style=flat-square" alt="Computer vision"/>
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-
-<br/><br/>
-
-<a href="https://github.com/sakilahmed-git/Orbi"><strong>Explore repository →</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 02 &nbsp; AI Student Success Predictor
-
-An AI-based student-support concept combining predictive modelling with an interactive advisor experience.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-DBEAFE?style=flat-square" alt="Machine learning"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
-
-<br/><br/>
-
-<a href="https://github.com/sakilahmed-git?tab=repositories"><strong>Explore repositories →</strong></a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03 &nbsp; Fraud Detection
-
-A financial-safety prototype exploring transaction risk analysis, suspicious-activity detection, and biometric verification.
-
-<br/>
-
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-DBEAFE?style=flat-square" alt="AI and machine learning"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
-
-<br/><br/>
-
-<a href="https://github.com/sakilahmed-git?tab=repositories"><strong>Explore repositories →</strong></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 04 &nbsp; Full-Stack Products
-
-Web applications focused on useful workflows, responsive interfaces, authentication, and backend integrations.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
-
-<br/><br/>
-
-<a href="https://github.com/sakilahmed-git?tab=repositories"><strong>Browse all projects →</strong></a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 03 / GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
 
@@ -213,7 +63,7 @@ Web applications focused on useful workflows, responsive interfaces, authenticat
 
 ---
 
-## 04 / Technology
+## Tech Stack
 
 <details open>
 <summary><strong>Languages</strong></summary>
@@ -278,7 +128,7 @@ Web applications focused on useful workflows, responsive interfaces, authenticat
 </details>
 
 <details open>
-<summary><strong>Databases, Infrastructure & Tools</strong></summary>
+<summary><strong>Databases, Cloud & Infrastructure</strong></summary>
 <br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -291,8 +141,15 @@ Web applications focused on useful workflows, responsive interfaces, authenticat
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-111827?style=flat-square&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
+
+</details>
+
+<details open>
+<summary><strong>Developer Tools</strong></summary>
+<br/>
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
@@ -305,7 +162,7 @@ Web applications focused on useful workflows, responsive interfaces, authenticat
 
 ---
 
-## 05 / Connect
+## Connect
 
 <div align="center">
 
@@ -318,9 +175,5 @@ Web applications focused on useful workflows, responsive interfaces, authenticat
 <br/><br/>
 
 <sub>Good code. Bold ideas. Real impact.</sub>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sakilahmed-git&label=PROFILE%20VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
 
 </div>
