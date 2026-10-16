@@ -22,6 +22,7 @@ Hey, I'm Sakil Ahmed<br><br>I'm a developer who loves building things — from w
 ![](https://github-contributor-stats.vercel.app/api?username=sakilahmed-git&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sakilahmed-git&icon=0&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![Profile Views](https://komarev.com/ghpvc/?username=sakilahmed-git&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sakilahmed-git)
+
+
