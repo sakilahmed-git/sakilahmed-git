@@ -1,111 +1,174 @@
 
 <!-- =====================================================
-     SAKIL AHMED | FUTURE SYSTEMS ENGINEER
-     Premium light theme · Blue accents · Clean layout
+     SAKIL AHMED | PRODUCT DASHBOARD
+     Premium light theme · Blue accents · No duplicate avatar
 ====================================================== -->
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=6&color=2563EB" width="100%" alt=""/>
 
+<table>
+<tr>
+<td align="left" width="65%">
+
+<h1>Sakil Ahmed <img src="https://img.shields.io/badge/OPEN%20TO%20BUILD-DBEAFE?style=flat-square&labelColor=DBEAFE&color=DBEAFE" alt="Building"/></h1>
+
+<b>AI / ML · Full-Stack Development · Systems Engineering</b>
+
 <br/><br/>
 
-<img src="https://github.com/sakilahmed-git.png" width="120" alt="Sakil Ahmed"/>
+Building web applications, experimenting with AI, and turning ideas into software people can actually use.
 
-# Sakil Ahmed
+<br/><br/>
 
-### AI / ML · Full-Stack Development · Systems Engineering
+<a href="https://github.com/sakilahmed-git?tab=repositories"><img src="https://img.shields.io/badge/Explore%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/></a>
+<a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/Get%20in%20Touch-F1F5F9?style=for-the-badge&logo=gmail&logoColor=334155" alt="Get in touch"/></a>
 
-Building software, experimenting with AI, and figuring out how to make ideas work in the real world.
+</td>
+<td align="center" width="35%">
+
+<h3>Currently exploring</h3>
+
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-EEF2FF?style=flat-square&logo=python&logoColor=4338CA" alt="AI and machine learning"/><br/>
+<img src="https://img.shields.io/badge/Full--Stack%20Development-EFF6FF?style=flat-square&logo=react&logoColor=2563EB" alt="Full-stack development"/><br/>
+<img src="https://img.shields.io/badge/Systems%20Engineering-F1F5F9?style=flat-square&logo=linux&logoColor=334155" alt="Systems engineering"/>
 
 <br/>
 
-<a href="https://github.com/sakilahmed-git?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORK-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
-</a>
-<a href="mailto:sakilahmed.user@gmail.com">
-  <img src="https://img.shields.io/badge/GET%20IN%20TOUCH-F1F5F9?style=for-the-badge&logo=gmail&logoColor=334155&labelColor=F1F5F9" alt="Email"/>
-</a>
+<sub>Learn by building. Improve by shipping.</sub>
 
-<br/><br/>
-
-[Instagram](https://instagram.com/sakilahmed._) · [LinkedIn](https://linkedin.com/in/sakil-ahmed-in) · [YouTube](https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A) · [Email](mailto:sakilahmed.user@gmail.com)
+</td>
+</tr>
+</table>
 
 </div>
 
 ---
 
-## 01 / About Me
+## Dashboard
 
-Hey, I'm Sakil — a Computer Science student who enjoys building things and understanding how they work.
+<div align="center">
 
-I work across web development and AI, from building full-stack applications to experimenting with machine learning and computer vision. I learn best by working on real projects, breaking things, and figuring out better ways to build them.
+<table>
+<tr>
+<td align="center" width="25%">
 
-- **Currently exploring:** AI/ML, intelligent applications, and systems engineering.
-- **Building with:** React, Next.js, Python, Node.js, and Firebase.
-- **Interested in:** Computer vision, AI agents, developer tools, and scalable software.
-- **Outside the code:** UI design, creative technology, and new ideas worth experimenting with.
+<img src="https://img.shields.io/badge/COMMITS-2563EB?style=flat-square" alt="Commits"/>
+
+<br/>
+
+<b>GitHub activity</b>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/REPOSITORIES-2563EB?style=flat-square" alt="Repositories"/>
+
+<br/>
+
+<b>My projects</b>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-2563EB?style=flat-square" alt="Open source"/>
+
+<br/>
+
+<b>Community</b>
+
+</td>
+<td align="center" width="25%">
+
+<img src="https://img.shields.io/badge/FOCUS-2563EB?style=flat-square" alt="Focus"/>
+
+<br/>
+
+<b>AI + Software</b>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+## About
+
+I'm a Computer Science student who enjoys building across the stack — from web applications and backend systems to AI-powered tools.
+
+I prefer learning through real projects: figuring out the architecture, solving the difficult parts, and refining the result until it works well.
+
+- **AI/ML:** Predictive modelling, computer vision, and intelligent applications.
+- **Development:** Modern frontend, APIs, authentication, and databases.
+- **Current interests:** AI agents, system design, and useful developer tools.
 
 ---
 
-## 02 / Featured Projects
-
-A selection of projects and ideas I'm working on.
+## Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Scintilla / Orbi
+<h3>01 · Scintilla / Orbi</h3>
 
-An exploration of optical communication systems, event-driven sensing, link acquisition, tracking, and predictive recovery.
+Optical communication research and development focused on event-driven sensing, link acquisition, tracking, and predictive recovery.
 
-**Focus areas**
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-DBEAFE?style=flat-square&color=DBEAFE" alt="Computer vision"/>
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
 
-`Python` `Computer Vision` `Next.js` `FastAPI`
+<br/><br/>
 
-[**Explore the repository →**](https://github.com/sakilahmed-git/Orbi)
+<a href="https://github.com/sakilahmed-git/Orbi">View repository →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ AI Student Success Predictor
+<h3>02 · AI Student Success Predictor</h3>
 
-An AI-powered student-support concept combining predictive modelling with an interactive advisor to help students better understand their progress.
+An AI-based student-support concept combining predictive modelling with an interactive advisor experience.
 
-**Focus areas**
+<img src="https://img.shields.io/badge/Machine%20Learning-DBEAFE?style=flat-square&color=DBEAFE" alt="Machine learning"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
 
-`Machine Learning` `React` `Firebase`
+<br/><br/>
 
-[**Explore my repositories →**](https://github.com/sakilahmed-git?tab=repositories)
+<a href="https://github.com/sakilahmed-git?tab=repositories">Browse repositories →</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ◈ Fraud Detection & Authentication
+<h3>03 · Fraud Detection & Authentication</h3>
 
-A financial-safety prototype exploring transaction risk analysis, suspicious-activity detection, and biometric authentication.
+A financial-safety prototype exploring transaction risk analysis, suspicious-activity detection, and biometric verification.
 
-**Focus areas**
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/AI%20%2F%20ML-DBEAFE?style=flat-square&color=DBEAFE" alt="AI and machine learning"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
 
-`React` `AI/ML` `Firebase`
+<br/><br/>
 
-[**Explore my repositories →**](https://github.com/sakilahmed-git?tab=repositories)
+<a href="https://github.com/sakilahmed-git?tab=repositories">Browse repositories →</a>
 
 </td>
 <td width="50%" valign="top">
 
-### ◈ Full-Stack Products
+<h3>04 · Full-Stack Products</h3>
 
-Web applications focused on useful functionality, thoughtful interfaces, and practical workflows — from service-booking systems to AI-powered tools.
+Web applications with practical workflows, responsive interfaces, authentication, and backend integrations.
 
-**Focus areas**
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=111827" alt="Firebase"/>
 
-`Next.js` `Node.js` `Tailwind CSS` `Firebase`
+<br/><br/>
 
-[**Browse all projects →**](https://github.com/sakilahmed-git?tab=repositories)
+<a href="https://github.com/sakilahmed-git?tab=repositories">Explore all projects →</a>
 
 </td>
 </tr>
@@ -113,9 +176,7 @@ Web applications focused on useful functionality, thoughtful interfaces, and pra
 
 ---
 
-## 03 / Technical Stack
-
-Tools I use across development, experimentation, and design.
+## Tech Stack
 
 <details open>
 <summary><b>Languages</b></summary>
@@ -145,8 +206,7 @@ Tools I use across development, experimentation, and design.
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Framer](https://img.shields.io/badge/Framer-111827?style=flat-square&logo=framer&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Lightroom](https://img.shields.io/badge/Lightroom-31A8FF?style=flat-square&logo=adobelightroom&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 
 </details>
 
@@ -181,7 +241,7 @@ Tools I use across development, experimentation, and design.
 </details>
 
 <details open>
-<summary><b>Databases & Infrastructure</b></summary>
+<summary><b>Databases, Cloud & Tools</b></summary>
 <br/>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -208,50 +268,41 @@ Tools I use across development, experimentation, and design.
 
 ---
 
-## 04 / GitHub Statistics
+## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sakilahmed-git&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155&icon_color=2563EB&include_all_commits=true" height="165" alt="GitHub statistics"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilahmed-git&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155&langs_count=8" height="165" alt="Most used languages"/>
+<a href="https://github.com/sakilahmed-git">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=sakilahmed-git&show_icons=true&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155&icon_color=2563EB&include_all_commits=true" alt="GitHub statistics"/>
+</a>
+<a href="https://github.com/sakilahmed-git">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilahmed-git&layout=compact&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=334155&langs_count=8" alt="Most used languages"/>
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sakilahmed-git&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" width="75%" alt="GitHub contribution streak"/>
+<img width="75%" src="https://streak-stats.demolab.com/?user=sakilahmed-git&hide_border=true&background=FFFFFF&ring=2563EB&fire=2563EB&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" alt="GitHub streak"/>
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakilahmed-git&bg_color=ffffff&color=334155&line=2563EB&point=2563EB&area=true&area_color=DBEAFE&hide_border=true" width="100%" alt="Contribution graph"/>
 
 </div>
 
 ---
 
-## 05 / Contribution Activity
+## Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sakilahmed-git&bg_color=ffffff&color=334155&line=2563EB&point=2563EB&area=true&area_color=DBEAFE&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-</div>
-
----
-
-## 06 / Connect
-
-I'm always interested in good ideas, interesting projects, and conversations about software and AI.
-
-<div align="center">
-
-<a href="https://instagram.com/sakilahmed._">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-<a href="https://linkedin.com/in/sakil-ahmed-in">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-</a>
-<a href="mailto:sakilahmed.user@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<a href="https://instagram.com/sakilahmed._"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://linkedin.com/in/sakil-ahmed-in"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 
 <br/><br/>
 
@@ -259,6 +310,6 @@ I'm always interested in good ideas, interesting projects, and conversations abo
 
 <br/><br/>
 
-<sub>Built with curiosity, patience, and a lot of iteration.</sub>
+<sub>Made with curiosity and a commitment to getting better.</sub>
 
 </div>
