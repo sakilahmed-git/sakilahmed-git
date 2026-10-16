@@ -44,13 +44,14 @@ I enjoy working across the stack — from designing interfaces and building APIs
 <a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/Email-EDE9FE?style=flat-square&logo=gmail&logoColor=6D28D9" alt="Email"/></a>
 
 </td>
+
 <td width="42%" valign="middle" align="center">
 
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4500&pause=2200&color=2563EB&center=true&vCenter=true&width=380&height=140&lines=Think+Beyond+the+Obvious;Design+with+Purpose;Engineer+with+Precision;Build+for+the+Real+World" alt="Animated developer philosophy"/>
-
 <br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4500&pause=2200&color=2563EB&center=true&vCenter=true&width=380&height=100&lines=Think+Beyond+the+Obvious;Design+with+Purpose;Engineer+with+Precision;Build+for+the+Real+World" alt="Animated developer philosophy"/>
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=DBEAFE" width="75%" alt=""/>
 
@@ -71,8 +72,6 @@ I enjoy working across the stack — from designing interfaces and building APIs
 </table>
 
 ---
-
-
 
 ## GitHub Analytics
 
