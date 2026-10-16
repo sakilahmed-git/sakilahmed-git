@@ -11,7 +11,8 @@
 <br/>
 
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&duration=2200&pause=700&color=2563EB&center=true&vCenter=true&width=950&height=100&lines=AI+%2F+ML+%C3%97+Full-Stack+Engineering;From+Idea+%E2%86%92+Code+%E2%86%92+Production;Live+%26+Functional%3A+School+%2B+NGO+Websites;Building+Real-World+Software%2C+Not+Just+Demos;Engineering+Intelligent+Digital+Experiences" alt="Animated developer introduction"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=2200&color=2563EB&center=true&vCenter=true&width=1000&height=90&lines=I+Build+AI-Powered+Applications;I+Design+%26+Ship+Full-Stack+Products;School+%26+NGO+Websites+%E2%80%94+Live+in+Production;From+First+Idea+to+Real-World+Deployment;Turning+Complex+Ideas+Into+Useful+Software" alt="Sakil Ahmed — animated developer introduction"/>
 
 
 <h1>Sakil Ahmed</h1>
