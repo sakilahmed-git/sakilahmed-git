@@ -1,51 +1,81 @@
 
 <!-- ======================================================
      SAKIL AHMED | GITHUB PROFILE
-     Premium light theme · Cobalt blue · Clean layout
+     Premium light · Cobalt blue · Developer portfolio
 ======================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=5&color=2563EB" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=7&color=2563EB" width="100%" alt=""/>
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=17&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=AI+%2F+ML+%7C+Full-Stack+Development;Building+intelligent+systems+and+useful+software;Turning+ideas+into+working+products" alt="Developer introduction"/>
+
 <h1>Sakil Ahmed</h1>
 
-<p><strong>AI/ML · Full-Stack Development · Systems Engineering</strong></p>
+<p>
+  <strong>AI/ML Developer &nbsp;·&nbsp; Full-Stack Engineer &nbsp;·&nbsp; Systems Builder</strong>
+</p>
 
 <p>
-Building intelligent applications, thoughtful web experiences,<br/>
-and practical AI systems that solve real problems.
+  I build AI-powered applications, modern web experiences, and engineering-focused tools.<br/>
+  I enjoy taking ideas from an early concept to a working, usable product.
 </p>
 
 <br/>
 
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/01-2563EB?style=flat-square" alt="01"/>
+  <br/><strong>AI & Machine Learning</strong>
+  <br/><sub>Intelligent systems · Predictive models</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/02-2563EB?style=flat-square" alt="02"/>
+  <br/><strong>Full-Stack Development</strong>
+  <br/><sub>Web apps · APIs · Databases</sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://img.shields.io/badge/03-2563EB?style=flat-square" alt="03"/>
+  <br/><strong>Systems Engineering</strong>
+  <br/><sub>Architecture · Experimentation</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
 <a href="https://github.com/sakilahmed-git?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+  <img src="https://img.shields.io/badge/Explore%20My%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 &nbsp;
 <a href="mailto:sakilahmed.user@gmail.com">
-  <img src="https://img.shields.io/badge/Get%20in%20Touch-EEF2FF?style=for-the-badge&logo=minutemailer&logoColor=2563EB&labelColor=EEF2FF" alt="Get in touch"/>
+  <img src="https://img.shields.io/badge/Let's%20Connect-EEF2FF?style=for-the-badge&logo=minutemailer&logoColor=2563EB" alt="Contact me"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/sakil-ahmed-in">
-  <img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=flat-square&logo=linkedin&logoColor=2563EB" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 &nbsp;
 <a href="https://instagram.com/sakilahmed._">
-  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=instagram&logoColor=2563EB" alt="Instagram"/>
+  <img src="https://img.shields.io/badge/Instagram-FFFFFF?style=flat-square&logo=instagram&logoColor=E4405F" alt="Instagram"/>
 </a>
 &nbsp;
 <a href="https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A">
-  <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=flat-square&logo=youtube&logoColor=2563EB" alt="YouTube"/>
+  <img src="https://img.shields.io/badge/YouTube-FFFFFF?style=flat-square&logo=youtube&logoColor=FF0000" alt="YouTube"/>
 </a>
 &nbsp;
 <a href="mailto:sakilahmed.user@gmail.com">
-  <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=2563EB" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&logo=gmail&logoColor=EA4335" alt="Email"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=sakilahmed-git&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
 
@@ -63,7 +93,7 @@ and practical AI systems that solve real problems.
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sakilahmed-git&hide_border=true&background=FFFFFF&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" width="80%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=sakilahmed-git&hide_border=true&background=FFFFFF&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" width="80%" alt="GitHub streak"/>
 
 </div>
 
@@ -71,7 +101,7 @@ and practical AI systems that solve real problems.
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2563eb/sakilahmed-git" width="100%" alt="Sakil Ahmed's GitHub contribution graph"/>
+<img src="https://ghchart.rshah.org/2563eb/sakilahmed-git" width="100%" alt="GitHub contribution graph"/>
 
 </div>
 
@@ -165,6 +195,8 @@ and practical AI systems that solve real problems.
 ---
 
 <div align="center">
+
+<h3>Let's build something meaningful.</h3>
 
 <a href="https://github.com/sakilahmed-git">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
