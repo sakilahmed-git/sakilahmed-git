@@ -1,8 +1,4 @@
-
-<!-- =========================================================
-     SAKIL AHMED | GITHUB PROFILE
-     Premium light · Cobalt · Lavender · Mint
-========================================================== -->
+<!-- =============== SAKIL AHMED | HERO =============== -->
 
 <div align="center">
 
@@ -12,72 +8,69 @@
 
 <table>
 <tr>
-<td width="60%" valign="middle">
+<td width="58%" valign="middle">
 
-<img src="https://img.shields.io/badge/AI%20%2F%20ML-FULL--STACK%20DEVELOPMENT-EEF2FF?style=flat-square&labelColor=DBEAFE&color=2563EB" alt="AI and full-stack development"/>
+<img src="https://img.shields.io/badge/BUILDING-THINGS%20THAT%20MATTER-EEF2FF?style=flat-square&labelColor=DBEAFE&color=2563EB" alt="Building things that matter"/>
 
 <br/><br/>
 
 # Sakil Ahmed
 
-### AI/ML Developer · Full-Stack Engineer
+### AI/ML Developer & Full-Stack Engineer
 
-I build AI-powered applications, modern web experiences, and practical software systems — turning ideas into products that work in the real world.
+I turn ambitious ideas into intelligent software, thoughtful digital experiences, and useful products.
+
+I enjoy working across the stack — from designing interfaces and building APIs to developing AI-powered systems and bringing complete applications to life.
 
 <br/>
 
 <a href="https://github.com/sakilahmed-git?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
+<img src="https://img.shields.io/badge/Explore%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects"/>
 </a>
 &nbsp;
 <a href="mailto:sakilahmed.user@gmail.com">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-EEF2FF?style=for-the-badge&logo=gmail&logoColor=2563EB" alt="Contact me"/>
+<img src="https://img.shields.io/badge/Contact%20Me-EEF2FF?style=for-the-badge&logo=minutemailer&logoColor=2563EB" alt="Contact me"/>
 </a>
 
 <br/><br/>
 
 <a href="https://linkedin.com/in/sakil-ahmed-in"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 &nbsp;
-<a href="https://instagram.com/sakilahmed._"><img src="https://img.shields.io/badge/Instagram-C13584?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+<a href="https://instagram.com/sakilahmed._"><img src="https://img.shields.io/badge/Instagram-FCE7F3?style=flat-square&logo=instagram&logoColor=BE185D" alt="Instagram"/></a>
 &nbsp;
-<a href="https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A"><img src="https://img.shields.io/badge/YouTube-DC2626?style=flat-square&logo=youtube&logoColor=white" alt="YouTube"/></a>
+<a href="https://www.youtube.com/channel/UCJUYSOk4UoFKNcQLbXA7i5A"><img src="https://img.shields.io/badge/YouTube-FEE2E2?style=flat-square&logo=youtube&logoColor=DC2626" alt="YouTube"/></a>
 &nbsp;
-<a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/Email-64748B?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=sakilahmed-git&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+<a href="mailto:sakilahmed.user@gmail.com"><img src="https://img.shields.io/badge/Email-EDE9FE?style=flat-square&logo=gmail&logoColor=6D28D9" alt="Email"/></a>
 
 </td>
-<td width="40%" valign="middle">
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=21&duration=4500&pause=2200&color=2563EB&center=true&vCenter=true&width=360&height=130&lines=Think+%E2%86%92+Build+%E2%86%92+Ship;Intelligence+Meets+Engineering;Software+Made+Useful;Ideas+Into+Reality" alt="Animated developer tagline"/>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=DBEAFE" width="70%" alt=""/>
-
-<br/><br/>
-
-<p><strong>BEYOND THE CODE</strong></p>
-
-<p>
-<sub>Thoughtful design.<br/>Solid engineering.<br/>Useful software for the real world.</sub>
-</p>
+<td width="42%" valign="middle" align="center">
 
 <br/>
 
-<img src="https://img.shields.io/badge/ALWAYS-LEARNING%20%26%20BUILDING-ECFDF5?style=flat-square&labelColor=CCFBF1&color=0F766E" alt="Always learning and building"/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&duration=4500&pause=2200&color=2563EB&center=true&vCenter=true&width=380&height=140&lines=Think+Beyond+the+Obvious;Design+with+Purpose;Engineer+with+Precision;Build+for+the+Real+World" alt="Animated developer philosophy"/>
 
-</div>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=DBEAFE" width="75%" alt=""/>
+
+<br/><br/>
+
+<p><strong>IDEAS, ENGINEERED INTO REALITY.</strong></p>
+
+<p><sub>Artificial intelligence · Software · Systems</sub></p>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=sakilahmed-git&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/><br/>
 
 </td>
 </tr>
 </table>
 
 ---
+
 
 ## GitHub Analytics
 
