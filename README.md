@@ -16,7 +16,4 @@ Hey, I'm Sakil Ahmed<br><br>I'm a developer who loves building things — from w
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ---
-
 [![Profile Views](https://komarev.com/ghpvc/?username=sakilahmed-git&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/sakilahmed-git)
-
-
