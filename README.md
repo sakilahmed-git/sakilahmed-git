@@ -63,7 +63,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=sakilahmed-git&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://profile-view-counter.sakilahmed-user.workers.dev/?username=sakilahmed-git&label=PROFILE+VIEWS" alt="Profile views"/>
 
 <br/><br/>
 
