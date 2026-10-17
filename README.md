@@ -78,7 +78,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 <div align="center">
 
 <a href="https://github.com/sakilahmed-git">
-<img src="https://github-readme-stats.vercel.app/api?username=sakilahmed-git&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&icon_color=2563EB&rank_icon=github" width="49%" alt="GitHub statistics"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sakilahmed-git&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&icon_color=2563EB&rank_icon=github&cache_seconds=1800" width="49%" alt="GitHub statistics"/>
 </a><a href="https://github.com/sakilahmed-git">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakilahmed-git&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=334155&langs_count=8" width="49%" alt="Most used languages"/>
 </a>
