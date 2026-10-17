@@ -85,7 +85,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sakilahmed-git&hide_border=true&background=FFFFFF&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=334155&dates=64748B" width="80%" alt="GitHub contribution streak"/>
+<img src="https://streak-stats.demolab.com/?user=sakilahmed-git&hide_border=true&background=FFFFFF&ring=2563EB&fire=F97316&currStreakLabel=2563EB&sideLabels=334155&dates=64748B&cache_seconds=1800" width="80%" alt="GitHub contribution streak"/>
 
 </div>
 
@@ -93,7 +93,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/2563eb/sakilahmed-git" width="100%" alt="GitHub contribution graph"/>
+<img src="https://ghchart.rshah.org/2563eb/sakilahmed-git?cache_seconds=1800" width="100%" alt="GitHub contribution graph"/>
 
 </div>
 
